@@ -88,5 +88,3 @@ To run the code, you need the following dependencies:
 ### Contact
 
 For any questions or clarifications, contact the instructor, Dr. Noha Elattar, or the student, Ahmed Hany Mohamed Soliman Harfoush.
-
-**GitHub Repository**: [https://github.com/yourusername/AI323_RNN_Assignment](https://github.com/yourusername/AI323_RNN_Assignment)
