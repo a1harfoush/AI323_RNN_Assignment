@@ -69,9 +69,9 @@ To run the code, you need the following dependencies:
    - Example output:
      ```
      Epoch [10/100], Loss: 2.3456
-     Epoch [20/100], Loss: 2.1234
+     Epoch [20/100], Loss: 2.1236
      ...
-     Generated text: hellowor ld thi s is a simpl e rnn exa
+     Generated text: hellowor ld thi s is a simpl e rnn exam
      ```
 
 ---
